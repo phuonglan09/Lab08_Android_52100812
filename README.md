@@ -9,6 +9,7 @@ BÀI 1
 ![image](https://github.com/phuonglan09/Lab08_Android_52100812/assets/130330774/2d276819-c4b8-49b2-9182-854e5d976a4c)
 ![image](https://github.com/phuonglan09/Lab08_Android_52100812/assets/130330774/664b6dcf-840a-472d-a463-b7ad2adbc546)
 ![image](https://github.com/phuonglan09/Lab08_Android_52100812/assets/130330774/4db06831-e7a2-49b0-ab38-d4876714790a)
+
 Bài 2
 ![image](https://github.com/phuonglan09/Lab08_Android_52100812/assets/130330774/e76c4226-600d-4ff1-b849-f7bc1916d3a3)
 ![image](https://github.com/phuonglan09/Lab08_Android_52100812/assets/130330774/160caeac-2dc8-4617-bd96-ace14f2af739)
